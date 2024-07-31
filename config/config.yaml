@@ -1,0 +1,7 @@
+api:
+  host: localhost
+  port: 8080
+  timeout: 4s
+logger:
+  json: false
+  level: INFO # DEBUG, INFO, WARN
